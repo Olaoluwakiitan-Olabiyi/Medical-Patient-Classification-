@@ -14,7 +14,8 @@ Inpatient care requires overnight hospitalization. Patients must stay at the med
 
 Patients receiving outpatient care do not need to spend a night in a hospital. They are free to leave the hospital once the procedure is over. In some exceptional cases, they need to wait while anesthesia wears off or to make sure there are not any complications. As long as there are not any serious complications, patients do not have to spend the night being supervised.
 
-<strong> Results </strong>
+<strong> Results: </strong>
+
 Having trained all 6 models,XGBoost and the SVM models produced the best prediction; i.e whether a patient should be categorized as an inpatient or an outpatient.
 
 Hence, with further feature slection and engineering, it is possible to get a higher F1_score with XGBoost and SVM.
