@@ -2,7 +2,8 @@
 
 ![Histogram](https://user-images.githubusercontent.com/71575857/222186268-17e9b5a2-fddb-49c4-8939-25b31ff417a6.png)
 
-<strong>PROBLEM STATEMENT</strong>
+<strong>PROBLEM STATEMENT: </strong>
+
 In today’s world of automation, the skills and knowledge of a person could be utilized at the best places possible by automating tasks wherever possible.
 
 As a part of the HealthIsWealth hospital automation system, you have been contracted as a professional data scientist who will build a system that would predict and estimate whether the patient should be categorized as an incare patient or an outcare patient with the help of several data points about the patients, their conditions and lab tests.
